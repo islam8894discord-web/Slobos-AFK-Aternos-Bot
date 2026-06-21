@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Master-Server.aternos.me
-",
+    "ip": "Master-Server.aternos.me",
     "port": 41180,
     "version": "",
     "try-creative": false
